@@ -1,6 +1,9 @@
+LITTILE CHANGES
 deptid,deptname,deptloc
 10,it,hyd
-20,sales,che
+20,da,che
 30,hr,mum
 40,marketting, mum
 50, admin,hyd
+60,sales,hyd
+
