@@ -1,0 +1,6 @@
+deptid,deptname,deptloc
+10,it,hyd
+20,sales,che
+30,hr,mum
+40,marketting, mum
+50, admin,hyd
